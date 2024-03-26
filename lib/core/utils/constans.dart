@@ -1,0 +1,1 @@
+const KfetchData = "fetch_data";
